@@ -6,7 +6,7 @@ Studying the complex and dynamic interactions in a hospital ward through the con
 Source of image: https://www.thetimes.co.uk
 
 
-Hospital-acquired infections (HAI) are one of the main public health issues that has consequently caused unacceptable consequences. Based on their nature, diseases can be transmitted by air, or direct and indirect contact. One of the tranmission routes and pathways of diseases has observed to be through some of the interactions of patients and a variety of health care workers (HCW). Therefore, the study to understand such complex interactions can provide a greater insight into HAIs epidemiology and be particularly useful for the design and validation process of infection prevention and control intervention measures.
+Hospital-acquired infections (HAI) are one of the main public health issues that have consequently caused unacceptable consequences. Based on their nature, diseases can be transmitted by air, or direct and indirect contact. One of the tranmission routes and pathways of diseases has observed to be through some of the interactions of patients and a variety of health care workers (HCW). Therefore, the study to understand such complex interactions can provide a greater insight into HAIs epidemiology and be particularly useful for the design and validation process of infection prevention and control intervention measures.
 
 
 For this purpose, I have applied the concept of simplicial complexes to study and understand the interactions that are taking place in a hospital ward. The dataset has been acquired through the website of SocioPatterns, an interdisciplinary research collaboration platform and can be accessed through the article and website provided below.
